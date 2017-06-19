@@ -1,3 +1,17 @@
+/*Ramsey*/
+.avatar-large[style*="214764719326756865"],
+.avatar-small[style*="214764719326756865"],
+div.avatar-popout.stop-animation[style*="214764719326756865"], .animate[style*="214764719326756865"] {
+    background-image:url("https://media.giphy.com/media/l1BgQzhMtpQKW00Q8/giphy.gif")!important;
+    background-size: 100% 100% !important;
+}
+/*Cryanide*/
+.avatar-large[style*="171015121135468545"],
+.avatar-small[style*="171015121135468545"],
+div.avatar-popout.stop-animation[style*="171015121135468545"], .animate[style*="171015121135468545"] {
+    background-image:url("https://media.giphy.com/media/xUA7aWZsSzxiXu3ucU/giphy.gif")!important;
+    background-size: 100% 100% !important;
+}
 /*Plant*/
 .avatar-large[style*="225689456844341248"],
 .avatar-small[style*="225689456844341248"],
